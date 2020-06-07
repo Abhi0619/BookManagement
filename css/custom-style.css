@@ -1,0 +1,10 @@
+.big-banner{
+    background-image: url('../image/flowers.jpg');
+    
+}
+.font{
+    font-style: italic;
+}
+.fresh-content{
+    background: linear-gradient(-45deg, #ec5252, #6e1a52);
+}
